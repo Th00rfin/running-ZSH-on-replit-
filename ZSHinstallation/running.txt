@@ -1,0 +1,8 @@
+permission executing script:
+chmod +x install-oh-my-zsh.sh
+
+running with shell:
+./install-oh-my-zsh.sh
+
+running:
+zsh 
